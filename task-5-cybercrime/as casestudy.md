@@ -1,9 +1,11 @@
 # Case Study: "Refund Request" UPI Scam 
-What it is: It is a social engineering scam that makes use of 
+What it is:
+It is a social engineering scam that makes use of 
 UPI for duping people and getting them to make a transaction 
 based on a false promise of a refund or winning a contest. 
 
-How it happens: - Hook: The scammer poses as a seller on OLX or a customer 
+How it happens:
+- Hook: The scammer poses as a seller on OLX or a customer 
 care representative of a delivery app.
 - Pressure: The scammer demands a prompt refund or 
 immediate transaction via UPI.
