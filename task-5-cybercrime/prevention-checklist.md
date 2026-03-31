@@ -1,6 +1,6 @@
-# Stay Safe Online: A VITian Guide
+# Stay Safe Online: 
 
-Stay Safe Online: A VITian Guide
+Stay Safe Online:
 
 1)	PIN is for Sending, Not Receiving: You do not need to enter the UPI PIN for receiving funds. In case you're prompted for the PIN, it is a phishing attempt.
 
