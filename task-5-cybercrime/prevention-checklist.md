@@ -1,7 +1,5 @@
 # Stay Safe Online: 
 
-Stay Safe Online:
-
 1)	PIN is for Sending, Not Receiving: You do not need to enter the UPI PIN for receiving funds. In case you're prompted for the PIN, it is a phishing attempt.
 
 2)	Verify the 'Verify' Icon: Before paying unknown merchants, check for the blue tick or 'verified merchant' logo.
